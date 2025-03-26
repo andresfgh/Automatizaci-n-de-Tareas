@@ -38,8 +38,9 @@ sudo apt-get update -y
 ```
 
 # 📌 Si se quiere instalar automáticamente los paquetes, se puede usar:
-# sudo apt-get upgrade -y
+
 ```
+sudo apt-get upgrade -y
 log_message "Actualización de paquetes completada. ⬆️✅"
 ```
 
